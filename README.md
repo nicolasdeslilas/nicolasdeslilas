@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nikitsu
 - 👀 I’m interested in Developpement Web/python
-- 🌱 I’m currently learning code
 - 💞️ I’m looking to collaborate on my radio station: 3615.world
 - 📫 How to reach me nicolas-z@outlook.fr
 
